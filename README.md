@@ -38,5 +38,5 @@ Dependency:
 
 ## Authors
 
-- Oumaima Berkani.  
+- Oumaima Berkani - berk.oumaima@gmail.com 
 - Ahmed Benlafqih.   
